@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.com/rodrigofelixf">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rodrigofelixf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofelixf&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofelixf&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   </div>
@@ -20,7 +20,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
    <!-- <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">//-->
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://scontent.frec8-1.fna.fbcdn.net/v/t1.6435-9/82226458_2934522929932391_8389824364802998272_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=174925&_nc_ohc=tuC33eidZlYAX_4bAdW&_nc_ht=scontent.frec8-1.fna&oh=00_AT_QGmnTh6dXGd_Gtmp8_KodYWy8-W9YBJPdkD83g4uqhg&oe=6365AFE9">
+ <!-- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/D4D03AQEfRam_NYeUdw/profile-displayphoto-shrink_800_800/0/1667413889802?e=1674086400&v=beta&t=ZGbp2nyQj-3hzX7dg1sXfMBKFMs6379ptDKyeF-pTMM"> -->
 </div>
 
 ##
