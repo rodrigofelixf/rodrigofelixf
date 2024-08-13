@@ -1,6 +1,8 @@
 ### Olá! Sou Rodrigo Felix. Desenvolverdor Back-End 👋
 Estou contribuindo para a evolução tecnológica do mundo e quem sabe de outros planetas =D
 
+Desenvolvedor web em especialização com foco em Java + Spring, mas pego com facilidade diversas outras tecnologias. Atualmente, estou desenvolvendo um projeto para academias, utilizando Java com Spring para a criação de APIs e Angular no front-end.
+
 
 <!--<div align="center">
   <a href="https://github.com/rodrigofelixf">
